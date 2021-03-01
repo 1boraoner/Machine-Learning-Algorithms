@@ -2,8 +2,6 @@
 
 ---------- K-Means Algorithm------------- 
 
-Time Complexity of the algorithm is O(n^2)
-
 After evaluation of the implemented algorithm:
 
 classification_report's overall shape after many trials is:   
