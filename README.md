@@ -12,8 +12,8 @@ classification_report's overall shape after many trials is:
            2       0.97      0.95      0.96       333
 
     accuracy                           0.97      1000
-    macro avg       0.97      0.97      0.97      1000
-    weighted avg       0.97      0.97      0.97      1000
+    macro avg      0.97      0.97      0.97      1000
+    weighted avg   0.97      0.97      0.97      1000
 
 Performance of K-Means on Some Difficult DataSet(N=1000)
 
