@@ -2,6 +2,8 @@
 
 ---------- K-Means Algorithm------------- 
 
+Time Complexity of the algorithm is O(n^2)
+
 After evaluation of the implemented algorithm:
 
 classification_report's overall shape after many trials is:   
@@ -15,7 +17,7 @@ classification_report's overall shape after many trials is:
     macro avg      0.97      0.97      0.97      1000
     weighted avg   0.97      0.97      0.97      1000
 
-Performance of K-Means on Some Difficult DataSet(N=1000)
+Performance of K-Means on Some Difficult DataSet(N=1000, K=3)
 
 ![Figure_1](https://user-images.githubusercontent.com/43790905/109571743-2d48ea80-7afd-11eb-88a1-243ac76357e7.png)
 
