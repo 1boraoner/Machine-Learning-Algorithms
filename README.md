@@ -33,7 +33,7 @@ In my implementation I used Gaussian Distrubution Function as the likelihood fun
 Any #Samples,#features,#classes can be selected
 
 
-Easy Prediciton Cases
+--------Easy Prediciton Cases
 
 
 ![resim](https://user-images.githubusercontent.com/43790905/110560626-5bf73e80-8157-11eb-85a9-226e6df08b0e.png)
@@ -41,7 +41,7 @@ Easy Prediciton Cases
 
 Predicted data: [0.59701462 0.17565587], probability matrix: [2.0740195124616857e-20, 1.3434938976936702e-09, 5.38207044913125e-11, 0.002467214513519645], Class prediction: 3 (yellow)
 
-Some Example Outputs (Difficult Datasets)
+---------Some Example Outputs (Difficult Datasets)
 
 
 ![Screenshot_1](https://user-images.githubusercontent.com/43790905/110560486-23effb80-8157-11eb-9ace-90633f17cb08.jpg)
