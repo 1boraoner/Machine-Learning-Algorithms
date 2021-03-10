@@ -34,12 +34,16 @@ Any #Samples,#features,#classes can be selected
 
 
 Easy Prediciton Cases
+
+
 ![resim](https://user-images.githubusercontent.com/43790905/110560626-5bf73e80-8157-11eb-85a9-226e6df08b0e.png)
 
 
 Predicted data: [0.59701462 0.17565587], probability matrix: [2.0740195124616857e-20, 1.3434938976936702e-09, 5.38207044913125e-11, 0.002467214513519645], Class prediction: 3 (yellow)
 
 Some Example Outputs (Difficult Datasets)
+
+
 ![Screenshot_1](https://user-images.githubusercontent.com/43790905/110560486-23effb80-8157-11eb-9ace-90633f17cb08.jpg)
 
 Prediction => Predicted data: [0.66155157 0.12965543], probability matrix: [4.2641016633004194e-15, 6.583880853799688e-16, 1.6702414085001405e-11, 1.134583396026431e-35], Class prediction: 2 (green)
